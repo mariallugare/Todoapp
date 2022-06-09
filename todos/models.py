@@ -1,6 +1,6 @@
 from django.db import models
 
-from todos.views import delete
+
 
 # Create your models here.
 
