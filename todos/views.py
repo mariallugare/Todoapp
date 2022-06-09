@@ -41,7 +41,7 @@ def update(request, pk):
     context = {
         'form': form
     }
-    return render(request, 'todos/update.html', context)
+    return render(request, 'main/update.html', context)
 
 
 def delete(request, pk):
@@ -49,4 +49,4 @@ def delete(request, pk):
     if request.method == 'POST':
         task.delete()
         return redirect('/')
-    return render(request, 'todos/delete.html')
+    return render(request, 'main/delete.html')
