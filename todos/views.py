@@ -26,7 +26,7 @@ def index(request):
         'count_completed_todo': count_completed_todo,
         'uncompleted': uncompleted,
     }
-    return render(request, 'todos/index.html', context)
+    return render(request, 'main/index.html', context)
 
 
 def update(request, pk):
