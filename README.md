@@ -32,6 +32,7 @@ There are no known bugs.
 PYTHON DJANGO 3.2.8
 
 HTML5 
+
 CSS BOOTSTRAP5
 POSTGRESQL 
 MARKDOWN for the READ
