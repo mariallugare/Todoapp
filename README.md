@@ -30,6 +30,7 @@ There are no known bugs.
 # Technologies Used
 
 PYTHON DJANGO 3.2.8
+
 HTML5 
 CSS BOOTSTRAP5
 POSTGRESQL 
