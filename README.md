@@ -33,6 +33,9 @@ PYTHON DJANGO 3.2.8
 
 HTML5 
 # Support and contact details
+mariallugare@gmail.com
+# License
+Copyright (c) {2021} {Marial Achieng}
 Phone: +254 728608551
 Email: mariallugare@gmail.com
 
