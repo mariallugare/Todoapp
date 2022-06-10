@@ -32,6 +32,9 @@ There are no known bugs.
 PYTHON DJANGO 3.2.8
 
 HTML5 
+# Support and contact details
+Phone: +254 728608551
+Email: mariallugare@gmail.com
 
 CSS BOOTSTRAP5
 
