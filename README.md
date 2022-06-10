@@ -27,3 +27,10 @@ $ python3.8 manage.py runserver
 Open port *http://127.0.0.1:8000/ * to interact with the application
 # Known Bugs
 There are no known bugs.
+# Technologies Used
+
+PYTHON DJANGO 3.2.8
+HTML5 
+CSS BOOTSTRAP5
+POSTGRESQL 
+MARKDOWN for the READ
